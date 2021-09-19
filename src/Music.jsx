@@ -10,7 +10,7 @@ export const Music = () => {
           <span className="text-neutral-dark">Annual Plan</span>
           <span className="text-neutral-desaurated">$59.99/year</span>
         </div>
-        <button className="text-primary-bright underline">Change</button>
+        <button className="text-primary-bright underline focus:opacity-60">Change</button>
       </div>
     </div>
   );

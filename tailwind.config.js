@@ -19,9 +19,11 @@ module.exports = {
       },
       maxWidth: {
         327: "327px",
+        450: "450px",
       },
       boxShadow: {
         button: "0 20px 20px 0 rgba(56,42,225,0.19)",
+        card: "0 40px 40px -20px rgba(13,48,189,0.15)",
       },
     },
   },
