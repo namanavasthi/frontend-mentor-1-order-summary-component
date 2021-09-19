@@ -1,17 +1,14 @@
-# Frontend Mentor Bootstrap
+# Frontend Mentor: #1 Order Summary Component
 
-Wanted to create a bootstrap starter for any frontend mentor project that I'd like to work on.
+okay, so frontend mentor wants me to post a readme in a particular format, being the rebel I am, I'd gladly not comply to that request.
+I really want to only focus on coding these things out as fast as I humanly can and not deal into documentation related specifics.
 
-## Features
+As my [bootstrap repo](https://github.com/namanavasthi/frontend-mentor-bootstrap) already mentions any tech stack related information necessary.
 
-- enabled via CRA
-- have tailwind support
-- gh-pages initialized
+## Thoughts
 
-## Steps
-
-- fork this repo into project based repo
-- `npm i`
-- setup github pages as described [in this article](https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14) or follow these instructions
-  - Go to repo -> settings -> GitHub pages section and setup source to the `gh-pages` branch.
-- go to homepage url
+- as i'm building this thing up, i'd probably focus more on the mobile comps first and then move over to desktop. I just prefer it that way.
+- once im done with base level layout-ing of components and how those components would be arranged, i'd move onto any tailwind related changes needed
+- after that comes interactions (click)
+  > NOTE : if not explicitly mentioned, I WOULD NOT worry about accessibility.
+- since im using tailwind defaults, i'd try to bring it as close as i can to the original without actually measuring things around
