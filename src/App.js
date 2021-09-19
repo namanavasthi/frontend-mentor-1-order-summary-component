@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <div
-      className="flex justify-center bg-primary-pale py-10 px-5 bg-background"
+      className="flex justify-center bg-primary-pale py-20 px-5 bg-background"
       style={{
         backgroundImage: `url(${imageUrl})`,
         backgroundPosition: "center top",
@@ -36,7 +36,7 @@ const App = () => {
       <Card>
         <img src={hero} alt="Illustrative hero"></img>
         <Content>
-          <p className="text-2xl">Order Summary</p>
+          <h3 className="text-2xl md:text-3xl font-bold">Order Summary</h3>
           <p className="text-neutral-desaurated pt-5 text-base">
             You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!
           </p>

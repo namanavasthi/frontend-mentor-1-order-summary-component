@@ -7,7 +7,7 @@ export const Music = () => {
       <img src={icon} alt="music icon" />
       <div className="flex flex-row justify-between flex-1">
         <div className="flex flex-col pl-4 justify-around">
-          <span className="text-neutral-dark">Annual Plan</span>
+          <span className="text-neutral-dark font-bold">Annual Plan</span>
           <span className="text-neutral-desaurated">$59.99/year</span>
         </div>
         <button className="text-primary-bright underline focus:opacity-60">Change</button>
