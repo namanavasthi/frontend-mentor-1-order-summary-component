@@ -12,3 +12,4 @@ As my [bootstrap repo](https://github.com/namanavasthi/frontend-mentor-bootstrap
 - after that comes interactions (click)
   > NOTE : if not explicitly mentioned, I WOULD NOT worry about accessibility.
 - since im using tailwind defaults, i'd try to bring it as close as i can to the original without actually measuring things around
+  > NOTE : look! this isnt TS, i want to get done with these REAL quick, don't have the time to satisfy tailwind's absurd ts needs
