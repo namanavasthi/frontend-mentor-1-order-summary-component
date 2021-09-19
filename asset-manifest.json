@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-1-order-summary-component/static/css/main.777d3df5.chunk.css",
-    "main.js": "/frontend-mentor-1-order-summary-component/static/js/main.49e057e2.chunk.js",
-    "main.js.map": "/frontend-mentor-1-order-summary-component/static/js/main.49e057e2.chunk.js.map",
+    "main.css": "/frontend-mentor-1-order-summary-component/static/css/main.b6a453b8.chunk.css",
+    "main.js": "/frontend-mentor-1-order-summary-component/static/js/main.507b0e89.chunk.js",
+    "main.js.map": "/frontend-mentor-1-order-summary-component/static/js/main.507b0e89.chunk.js.map",
     "runtime-main.js": "/frontend-mentor-1-order-summary-component/static/js/runtime-main.cbdf96d1.js",
     "runtime-main.js.map": "/frontend-mentor-1-order-summary-component/static/js/runtime-main.cbdf96d1.js.map",
-    "static/js/2.682fe882.chunk.js": "/frontend-mentor-1-order-summary-component/static/js/2.682fe882.chunk.js",
-    "static/js/2.682fe882.chunk.js.map": "/frontend-mentor-1-order-summary-component/static/js/2.682fe882.chunk.js.map",
+    "static/js/2.26b26bc3.chunk.js": "/frontend-mentor-1-order-summary-component/static/js/2.26b26bc3.chunk.js",
+    "static/js/2.26b26bc3.chunk.js.map": "/frontend-mentor-1-order-summary-component/static/js/2.26b26bc3.chunk.js.map",
     "index.html": "/frontend-mentor-1-order-summary-component/index.html",
-    "static/css/main.777d3df5.chunk.css.map": "/frontend-mentor-1-order-summary-component/static/css/main.777d3df5.chunk.css.map",
-    "static/js/2.682fe882.chunk.js.LICENSE.txt": "/frontend-mentor-1-order-summary-component/static/js/2.682fe882.chunk.js.LICENSE.txt",
+    "static/css/main.b6a453b8.chunk.css.map": "/frontend-mentor-1-order-summary-component/static/css/main.b6a453b8.chunk.css.map",
+    "static/js/2.26b26bc3.chunk.js.LICENSE.txt": "/frontend-mentor-1-order-summary-component/static/js/2.26b26bc3.chunk.js.LICENSE.txt",
     "static/media/icon-music.f20c7787.svg": "/frontend-mentor-1-order-summary-component/static/media/icon-music.f20c7787.svg",
     "static/media/illustration-hero.73032583.svg": "/frontend-mentor-1-order-summary-component/static/media/illustration-hero.73032583.svg",
+    "static/media/pattern-background-desktop.5a0ab689.svg": "/frontend-mentor-1-order-summary-component/static/media/pattern-background-desktop.5a0ab689.svg",
     "static/media/pattern-background-mobile.c8d50fcb.svg": "/frontend-mentor-1-order-summary-component/static/media/pattern-background-mobile.c8d50fcb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cbdf96d1.js",
-    "static/js/2.682fe882.chunk.js",
-    "static/css/main.777d3df5.chunk.css",
-    "static/js/main.49e057e2.chunk.js"
+    "static/js/2.26b26bc3.chunk.js",
+    "static/css/main.b6a453b8.chunk.css",
+    "static/js/main.507b0e89.chunk.js"
   ]
 }
