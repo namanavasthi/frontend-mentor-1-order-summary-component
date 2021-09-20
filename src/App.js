@@ -24,7 +24,7 @@ const App = () => {
   const imageUrl = windowWidth >= 768 ? backgroundDesktop : background;
 
   return (
-    <article
+    <main
       className="flex justify-center bg-primary-pale py-20 px-5 bg-background"
       style={{
         backgroundImage: `url(${imageUrl})`,
@@ -36,7 +36,7 @@ const App = () => {
       <Card>
         <img src={hero} alt="Illustrative hero"></img>
         <Content>
-          <h1 className="text-2xl md:text-3xl font-bold">Order Summary</h1>
+          <h2 className="text-2xl md:text-3xl font-bold">Order Summary</h2>
           <p className="text-neutral-desaurated pt-5 text-base">
             You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!
           </p>
@@ -47,7 +47,7 @@ const App = () => {
           <button className="text-neutral-desaurated p-3 mt-3 text-base focus:text-neutral-dark">Cancel Order</button>
         </Content>
       </Card>
-    </article>
+    </main>
   );
 };
 
