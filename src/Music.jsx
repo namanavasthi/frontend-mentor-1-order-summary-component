@@ -3,15 +3,15 @@ import icon from "./images/icon-music.svg";
 
 export const Music = () => {
   return (
-    <div className="bg-neutral-pale rounded-xl p-4 mt-5 flex flex-row text-sm">
+    <article className="bg-neutral-pale rounded-xl p-4 mt-5 flex flex-row text-sm">
       <img src={icon} alt="music icon" />
-      <div className="flex flex-row justify-between flex-1">
-        <div className="flex flex-col pl-4 justify-around">
-          <span className="text-neutral-dark font-bold">Annual Plan</span>
+      <article className="flex flex-row justify-between flex-1">
+        <section className="flex flex-col pl-4 justify-around">
+          <h2 className="text-neutral-dark font-bold">Annual Plan</h2>
           <span className="text-neutral-desaurated">$59.99/year</span>
-        </div>
+        </section>
         <button className="text-primary-bright underline focus:opacity-60">Change</button>
-      </div>
-    </div>
+      </article>
+    </article>
   );
 };
