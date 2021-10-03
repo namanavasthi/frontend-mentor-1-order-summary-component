@@ -1,5 +1,13 @@
 # Frontend Mentor: #1 Order Summary Component
 
+```
+Name : Order summary component
+Description : A perfect project for newbies who are starting to build confidence with layouts!
+Difficulty : 1-NEWBIE
+Status: Complete
+Challenge : https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
+```
+
 okay, so frontend mentor wants me to post a readme in a particular format, being the rebel I am, I'd gladly not comply to that request.
 I really want to only focus on coding these things out as fast as I humanly can and not deal into documentation related specifics.
 
